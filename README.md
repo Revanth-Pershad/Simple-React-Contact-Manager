@@ -1,9 +1,9 @@
 # Getting Started with Contact Manger
 
 <p align="center">This is a simple website created by using React js and its few important features such as React Routes , State functions etc.</p><br /><br />
-<h2 align="center">Main Page</h2><br />
+<h1 align="center">Main Page</h1><br />
 <img align="center" src = "https://user-images.githubusercontent.com/70310699/166095562-2205a53e-e622-4f64-983c-b538e50ab665.jpg">
-<br /><br /><h2 align="center">Add Contact Page</h2><br />
+<br /><br /><h1 align="center">Add Contact Page</h1><br />
 <img align="center" src="https://user-images.githubusercontent.com/70310699/166095626-df1ad190-7e64-4d18-90ed-064cdf5a4bb3.jpg"><br /><br />
 
 
