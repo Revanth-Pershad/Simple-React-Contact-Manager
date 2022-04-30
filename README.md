@@ -2,9 +2,9 @@
 
 <p align="center">This is a simple website created by using React js and its few important features such as React Routes , State functions etc.</p><br /><br />
 <h1 align="center">Main Page</h1><br />
-<img align="center" src = "https://user-images.githubusercontent.com/70310699/166095562-2205a53e-e622-4f64-983c-b538e50ab665.jpg">
+<p align="center"><img src = "https://user-images.githubusercontent.com/70310699/166095562-2205a53e-e622-4f64-983c-b538e50ab665.jpg"></p>
 <br /><br /><h1 align="center">Add Contact Page</h1><br />
-<img align="center" src="https://user-images.githubusercontent.com/70310699/166095626-df1ad190-7e64-4d18-90ed-064cdf5a4bb3.jpg"><br /><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/70310699/166095626-df1ad190-7e64-4d18-90ed-064cdf5a4bb3.jpg"></p><br /><br />
 
 
 ## Available Scripts
