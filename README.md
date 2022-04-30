@@ -1,4 +1,4 @@
-<p align="center"><h1>Getting Started with Contact Manger</h1></p>
+<h1 align="center">Getting Started with Contact Manger</h1>
 
 <p align="center">This is a simple website created by using React js and its few important features such as React Routes , State functions etc.</p><br /><br />
 <h2 align="center">Main Page</h2><br />
